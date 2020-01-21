@@ -1,6 +1,11 @@
+.DS_Store
+.vscode
+
 # Byte-compiled / optimized / DLL files
+__init__.py
 __pycache__/
 *.pyc
+
 
 # C extensions
 *.so
